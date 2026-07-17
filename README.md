@@ -70,7 +70,15 @@ Certified as an **Oracle Cloud Infrastructure 2025 Foundations Associate**. Equa
 
 </td>
 <td width="36%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/git.gif" width="100%" style="border-radius: 8px;"/>
+
+<table>
+<tr><td align="center">
+<br/>
+<sub>"Where hardware meets<br/>intelligence — that's<br/>my playground."</sub>
+<br/><br/>
+</td></tr>
+</table>
+
 </td>
 </tr>
 </table>
