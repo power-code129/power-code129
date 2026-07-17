@@ -443,13 +443,13 @@ Intelligent traffic control via finite state machine implementation.
 <br/>
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/power-code129?theme=dark&font=Georgia&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Priyankagandhi2004?theme=dark&font=Georgia&ext=heatmap" alt="LeetCode Stats"/>
 
 <br/>
 
-<a href="https://www.hackerrank.com/power-code129"><img src="https://img.shields.io/badge/HackerRank-4_Badges-11141B?style=flat-square&logo=hackerrank&logoColor=C9A227"/></a>
+<a href="https://www.hackerrank.com/profile/2004apgandhi"><img src="https://img.shields.io/badge/HackerRank-4_Badges-11141B?style=flat-square&logo=hackerrank&logoColor=C9A227"/></a>
 <img src="https://img.shields.io/badge/TCS_CodeVita-S13_%C2%B7_13794th_Global-11141B?style=flat-square"/>
-<img src="https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_USER_ID.svg?style=flat-square" alt="WakaTime"/>
+
 
 </div>
 </details>
