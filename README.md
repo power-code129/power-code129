@@ -7,8 +7,6 @@
 <!-- Hero -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11141B,100:1B1F2A&height=190&section=header"/>
-
 <br/>
 
 <h1 style="letter-spacing: 4px;">PRIYANKA GANDHI A</h1>
@@ -335,13 +333,14 @@ Certified as an **Oracle Cloud Infrastructure 2025 Foundations Associate**. Equa
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Priyankagandhi2004?theme=dark&font=Georgia&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/power-code129?theme=dark&font=Georgia&ext=heatmap" alt="LeetCode Stats"/>
 <!-- TODO: confirm 'power-code129' matches your actual LeetCode handle -->
 
 <br/>
 
-<a href="https://www.hackerrank.com/profile/2004apgandhi"><img src="https://img.shields.io/badge/HackerRank-4_Badges-11141B?style=flat-square&logo=hackerrank&logoColor=C9A227"/></a>
+<a href="https://www.hackerrank.com/power-code129"><img src="https://img.shields.io/badge/HackerRank-4_Badges-11141B?style=flat-square&logo=hackerrank&logoColor=C9A227"/></a>
 <img src="https://img.shields.io/badge/TCS_CodeVita-S13_%C2%B7_13794th_Global-11141B?style=flat-square"/>
+<img src="https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_USER_ID.svg?style=flat-square" alt="WakaTime"/>
 <!-- TODO: WakaTime needs the editor plugin + your user ID -->
 
 </div>
