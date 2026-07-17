@@ -1,0 +1,34 @@
+# Save to: .github/workflows/skyline.yml (in the power-code129/power-code129 repo)
+# Produces a downloadable skyline.stl artifact (3D-printable contribution model).
+# GitHub's own tool lives at github.com/skyline — this automates a periodic export.
+name: Generate GitHub Skyline Model
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"   # monthly
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install skyline CLI
+        run: npm install -g github-skyline-cli
+        # TODO: verify the exact package name/CLI you choose — GitHub's official
+        # skyline generator is web-based at github.com/skyline; this step assumes
+        # a CLI wrapper is available. Adjust to whichever generator you adopt.
+
+      - name: Generate skyline model
+        run: github-skyline --user power-code129 --year 2026 --output skyline.stl
+
+      - name: Upload as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-skyline-2026
+          path: skyline.stl

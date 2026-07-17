@@ -1,0 +1,52 @@
+# Save to: .github/workflows/update.yml (in the power-code129/power-code129 repo)
+# Orchestrator: pings the other workflows on a shared daily schedule so the
+# snake, pacman, and metrics SVGs stay in sync with each other and with the
+# README. Trophies/streak/stats/activity-graph images are hosted dynamically
+# by their own services (github-profile-trophy, streak-stats, etc.) and need
+# no workflow — they refresh automatically whenever the README is viewed.
+name: Daily Profile Refresh
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  actions: write
+
+jobs:
+  trigger-others:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger snake workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'snake.yml',
+              ref: 'main'
+            });
+
+      - name: Trigger pacman workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'pacman.yml',
+              ref: 'main'
+            });
+
+      - name: Trigger metrics workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'metrics.yml',
+              ref: 'main'
+            });
