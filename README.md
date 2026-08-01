@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Priyanka Gandhi A 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0a0a0a,100:4285F4&text=Priyanka%20Gandhi%20A&fontColor=ffffff&fontSize=32&fontAlignY=38&animation=fadeIn&desc=ECE%20Graduate%20%7C%20AI%20%C2%B7%20Cloud%20%C2%B7%20Software%20Engineering&descAlignY=58&descSize=16)
 
-**ECE Graduate · AI · Cloud · Software Engineering**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Software+Engineer;Embedded+Systems+Engineer;AI+%2F+ML+Engineer;Cloud+%2F+SRE+Engineer;Technical+Project+Manager)](https://git.io/typing-svg)
 
 Bridging hardware and software — from FPGA and embedded systems to AI/ML and cloud, with a growing focus on technical project management.
 
@@ -42,6 +42,17 @@ Final-year ECE student building across the full stack — embedded hardware, sof
 <img src="https://github-readme-stats.vercel.app/api?username=power-code129&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=power-code129&theme=default&hide_border=true" alt="GitHub streak" height="165"/>
 </div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=power-code129&theme=minimal&hide_border=true" alt="Activity graph" width="100%"/>
+</div>
+
+### Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/power-code129/power-code129/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+</div>
+
 
 ---
 
