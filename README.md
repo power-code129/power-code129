@@ -6,9 +6,9 @@
 
 Bridging hardware and software — from FPGA and embedded systems to AI/ML and cloud, with a growing focus on technical project management.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://power-code129.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-priyanka-gandhi-ece)
+[![Email](https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:2004apgandhi@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@ Bridging hardware and software — from FPGA and embedded systems to AI/ML and c
 
 ### About
 
-Final-year ECE student building across the full stack — embedded hardware, software engineering, AI/ML, and cloud. Two-time IBM intern (AI · Data Science), Google Cloud Arcade Facilitator, and Oracle OCI certified. Currently exploring technical project management.
+ECE grad building across the full stack — embedded hardware, software engineering, AI/ML, and cloud. Two-time IBM intern (AI · Data Science), Google Cloud Arcade Facilitator, and Oracle OCI certified. Currently exploring technical project management.
 
 ### What I've been building
 
